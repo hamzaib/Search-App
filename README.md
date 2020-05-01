@@ -6,9 +6,10 @@ This is a demo App for a working search bar with filter.
 Run expo command `expo start`.
 
 
-# Convered in this Repo:
+# Covered in this Repo:
 - Word Filter  
-- Swipe for extra details
+- Swipe for word extra details
+<img src="./assets/swipe.png"></img>
 - Counts how many words user found: this happens when the user click on the word 
 - Slick UI animation when Swiping 
 
